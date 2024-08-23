@@ -1,0 +1,11 @@
+<site-list version="4">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>08/23/2024 10:14:43</date-created>
+  </created-by>
+  <site url="wgs-ska-jvs02:81">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
